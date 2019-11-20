@@ -1,2 +1,2 @@
 # deeplearning-notebooks
-DeepLearning TensorFlow Jupyter Notebooks for later reference
+DeepLearning Jupyter Notebooks (Models implemented using TensorFlow) for later reference
